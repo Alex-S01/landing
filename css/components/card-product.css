@@ -1,0 +1,22 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-product {
+  background-color: white;
+  text-align: center;
+  border: 1px solid rgb(230,230,230);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  width: 200px;
+  padding: 20px;
+}
+
+.card-product p {
+  opacity: 0.5;
+}
+
+.card-product img {
+  height: 100px
+}

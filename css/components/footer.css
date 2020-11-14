@@ -1,0 +1,21 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 60px;
+}
+
+.footer .container {
+  align-items: center;
+}
+
+.social-icons li {
+  list-style-type: none;
+  display: inline-block;
+  color: #1EDD88;
+  font-size: 28px;
+  padding: 0px 8px;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
