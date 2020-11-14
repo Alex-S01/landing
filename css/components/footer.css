@@ -8,6 +8,11 @@
   align-items: center;
 }
 
+.social-icons {
+  /* Remove auto padding from the unordered list */
+  padding-inline-start: 0;
+}
+
 .social-icons li {
   list-style-type: none;
   display: inline-block;
